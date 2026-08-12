@@ -1,4 +1,4 @@
-# AI Internship FastAPI Project
+# AI FastAPI Project
 
 A simple REST API developed using **FastAPI** for an AI/Python internship task.
 
